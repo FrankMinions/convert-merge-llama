@@ -1,0 +1,5 @@
+protobuf==3.20.1
+huggingface_hub
+transformers==4.28.0
+peft==0.3.0
+torch
